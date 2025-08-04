@@ -10,7 +10,7 @@ This is a simple Node.js Express app used to demonstrate Continuous Integration 
   - A Docker image is built from the app
   - The image is pushed automatically to DockerHub
 
-## 🧱 Tools & Technologies
+## 🧱Tools & Technologies
 
 - Node.js
 - Express.js
